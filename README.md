@@ -2,6 +2,12 @@
 
 Kho khởi đầu dùng xuyên suốt 15 bài thực hành.
 
+## Thông tin sinh viên
+
+- **Họ và tên:** Hoàng Mạnh Tường
+- **Lớp:** K57 Kinh Tế Số
+- **Mã SV:** 23K4300042
+
 ## Bắt đầu (thay cho bước "Fork kho" trong sổ tay)
 
 Sổ tay ghi "Fork kho `hce-web3-starter`". Học kỳ này kho được phát dạng tệp nén, nên làm như sau:
